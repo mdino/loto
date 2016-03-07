@@ -1,0 +1,2 @@
+# loto
+c# loto aplikacija
